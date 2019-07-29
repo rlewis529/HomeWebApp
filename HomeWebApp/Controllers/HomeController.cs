@@ -15,6 +15,11 @@ namespace HomeWebApp.Controllers
             return View();
         }
 
+        public IActionResult Cullen()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();
